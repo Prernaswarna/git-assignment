@@ -28,3 +28,5 @@ Prakhar Gupta <https://github.com/bpraak> - [HTML Assignment - IMG Recruitment W
 Shreyas Dodamani <https://github.com/shreyasdoda> - [HTML Assignment - IMG Recruitment Website] - <https://shreyasdoda.github.io/IMG_HTML_CSS_Assignment/>
 
 Yavnika Garg <https://github.com/Yavnikaa> - [HTML Assignment - IMG Recruitment Website]- <https://yavnikaa.github.io/project.html>
+
+Prerna Kumar https://github.com/prernaswarna - [HTML Assignment - IMG Recruitment Website] - https://prernaswarna.github.io/imgassignment/
